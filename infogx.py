@@ -74,8 +74,8 @@ about = """
 
 \033[1;91m>> \033[1;97mInstagram   : 0hacker_x0
 \033[1;91m>> \033[1;97mGithub      : MrHacker-X
-\033[1;91m>> \033[1;97mYouTube     : Sololex
-\033[1;91m>> \033[1;97mTelegram    : mrhackerxs
+\033[1;91m>> \033[1;97mYouTube     : @Technolex
+\033[1;91m>> \033[1;97mTelegram    : hackwithalex
 \033[1;91m>> \033[1;97mFacebook    : hackerxmr
 \033[1;91m>> \033[1;97mMy Website  : hackwithalex.github.io
 
@@ -418,7 +418,7 @@ def hack():
                     print()
                     print("\033[1;91m[*] \033[1;97mOpening my YouTube channel in your device \n")
                     time.sleep(1)
-                    os.system("xdg-open https://youtube.com/c/Sololex")
+                    os.system("xdg-open https://youtube.com/@Technolex")
                 
                 elif fol == '5' or fol == '05':
                     print()
